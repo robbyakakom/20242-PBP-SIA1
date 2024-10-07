@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Page-1" id="ZaVK0EwX70erf29dQV4Q">
+    <mxGraphModel dx="1527" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tosd45kEe_IgeQ7zurRG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-1" target="tosd45kEe_IgeQ7zurRG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-2" target="tosd45kEe_IgeQ7zurRG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-2" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; ulang = &quot;y&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; nama_matakuliah = &quot;&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; nilai_huruf = &quot;&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; sks = 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; bobot = 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; jumlah_sks = 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; jumlah_bobot = 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="130" width="175" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-4" target="tosd45kEe_IgeQ7zurRG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-4" value="ulang == &quot;y&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-171" y="419" width="660" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="tosd45kEe_IgeQ7zurRG-8">
+          <mxGeometry width="660" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-7" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;div&gt;Prosedur masukan&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tosd45kEe_IgeQ7zurRG-8">
+          <mxGeometry x="105" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.518;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-4" target="tosd45kEe_IgeQ7zurRG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-12" target="tosd45kEe_IgeQ7zurRG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="730" />
+              <mxPoint x="560" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;input&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;ulang&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="109" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-6" target="tosd45kEe_IgeQ7zurRG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-470" y="410" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="tosd45kEe_IgeQ7zurRG-19">
+          <mxGeometry width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-18" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;Fungsi Hitung IPK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tosd45kEe_IgeQ7zurRG-19">
+          <mxGeometry x="55" y="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-21" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-18" target="tosd45kEe_IgeQ7zurRG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-24" value="Fungsi Masukan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="28" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-26" value="START Fungsi: Masukkan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="820" y="80" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-27" target="tosd45kEe_IgeQ7zurRG-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-27" value="input&lt;div&gt;nama_matakuliah, nilai, sks&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="826" y="200" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-28" target="tosd45kEe_IgeQ7zurRG-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-28" value="return&lt;div&gt;nama_matakuliah, nilai, sks&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="822" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-30" value="END Fungsi: Masukkan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="812" y="400" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tosd45kEe_IgeQ7zurRG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.54;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tosd45kEe_IgeQ7zurRG-26" target="tosd45kEe_IgeQ7zurRG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

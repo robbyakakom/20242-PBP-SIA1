@@ -1,0 +1,23 @@
+## penyajian algoritma secara deskriptif
+
+algoritma program menghitung ipk
+
+- deklarasi variabel: ulang = y, nama matakuliah, nilai huruf, sks, bobot, jumlah bobot, jumlah sks
+- lakukan perulangangan selama ulang = y
+    - input: nama matakuliah, nilai huruf, sks
+    - proses :
+        jika nilai huruf = A maka bobot = 4
+        jika nilai huruf = B maka bobot = 3
+        jika nilai huruf = C maka bobot = 2
+        jika nilai huruf = D maka bobot = 1
+        jika nilai huruf = E maka bobot = 0
+
+        jumlah bobot = jumlah bobot + (bobot * sks)
+        jumlah sks = jumlah sks + sks
+    - input nilai ulang ?
+
+- proses
+    ipk = jumlah bobot / jumlah sks
+- output 
+    print (ipk)
+
