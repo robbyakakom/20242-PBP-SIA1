@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="sc6G8F6RvjwJPHQ2L5p4">
+    <mxGraphModel dx="552" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oGa4r3k-jZSztSswqnMz-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="470" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="335" width="400" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-10" value="nilai c" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-3" target="oGa4r3k-jZSztSswqnMz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-3" value="Program Kalkulator" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-9" value="nilai a, nilai b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-8" target="oGa4r3k-jZSztSswqnMz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-8" value="USER" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-11" value="DIAGRAM KONTEKS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-14" value="nilai a, nilai b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-12" target="oGa4r3k-jZSztSswqnMz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-18" value="nilai a, nilai b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-12" target="oGa4r3k-jZSztSswqnMz-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="540" />
+              <mxPoint x="1010" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-20" value="nilai a, nilai b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.099;entryY=0.232;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-12" target="oGa4r3k-jZSztSswqnMz-17">
+          <mxGeometry x="0.2585" y="3" relative="1" as="geometry">
+            <mxPoint x="700" y="731.2500000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="410" />
+              <mxPoint x="690" y="703" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-12" value="USER" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-15" value="nilai c (hasil jumlah)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-13" target="oGa4r3k-jZSztSswqnMz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-13" value="1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hitung Jumlah&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="950" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-16" value="&lt;div&gt;2&lt;/div&gt;&lt;div&gt;Hitung Kurang&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="960" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-21" value="nilai c (hasil perkalian)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-17" target="oGa4r3k-jZSztSswqnMz-12">
+          <mxGeometry x="-0.5009" y="-5" relative="1" as="geometry">
+            <mxPoint x="650" y="540.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="765" />
+              <mxPoint x="650" y="370" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-17" value="&lt;div&gt;3&lt;/div&gt;&lt;div&gt;Hitung Kali&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="960" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-19" value="nilai c (hasil pengurangan)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.155;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oGa4r3k-jZSztSswqnMz-16" target="oGa4r3k-jZSztSswqnMz-12">
+          <mxGeometry x="-0.3725" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGa4r3k-jZSztSswqnMz-22" value="DIAGRAM LEVEL 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
